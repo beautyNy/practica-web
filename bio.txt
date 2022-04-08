@@ -1,3 +1,4 @@
 //clase 17 tecnologia git
-Linda Castillo. 46 años, agente inmobiliario, estudiante de informatica en el UPTAI,  madre de un hermosa adolescente
+Linda Castillo. 46 años, agente inmobiliario, estudiante de informatica en el UPTAI,  madre de un hermosa adolescente, 
+actualmente estoy haciendo un diplomado en desarrollo web
 
